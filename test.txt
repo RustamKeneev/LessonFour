@@ -1,0 +1,5 @@
+Barcelona:Bayern 2:8
+Arsenal:Westhame 2:1
+Dordoy:CSK 1000:0
+Real-Madrid:Liverpool 5:0
+A:B 5:4
